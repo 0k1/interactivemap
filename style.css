@@ -1,0 +1,3 @@
+.grow { transition: all .2s ease-in-out; fill:black; }
+.grow:hover { fill:#003366; }
+.rescale{transform:scale(1);}
